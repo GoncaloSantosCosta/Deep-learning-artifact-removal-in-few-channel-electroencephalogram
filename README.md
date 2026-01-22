@@ -1,4 +1,4 @@
-## Deep-learning-artifact-removal-in-few-channel-electroencephalogram
+# Deep learning artifact removal in few-channel electroencephalogram
 
 This is the full code for applying the 1D-SEResNet model to preprocess 2-channel EEG, as well as the code to train the model from new 19-channel EEG data.
 

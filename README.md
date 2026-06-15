@@ -7,5 +7,5 @@ Two folders are available, one for each use case described above.
 #### Main files
 
 - `DataProcessing/main.py`: execute this script to preprocess 2-channel EEG data.
-- `Model/Training/main_training.py`: execute this script to train a new 1D-SEResNet model.
+- `ModelTraining/main_training.py`: execute this script to train a new 1D-SEResNet model.
 - `1DseResNet.pth`: pre-trained 1D-SEResNet model.
